@@ -1,0 +1,6 @@
+@REIGNHI_HostAddress = http://localhost:5259
+
+GET {{REIGNHI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
